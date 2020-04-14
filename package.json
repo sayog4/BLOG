@@ -8,8 +8,23 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sendgrid/mail": "^7.0.0",
+    "bcryptjs": "^2.4.3",
+    "formidable": "^1.2.2",
+    "isomorphic-fetch": "^2.2.1",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.7",
     "next": "9.3.4",
+    "popper.js": "^1.16.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "shortid": "^2.2.15",
+    "slugify": "^1.4.0",
+    "string-strip-html": "^4.3.19",
+    "validator": "^13.0.0"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^1.7.0"
   }
 }
