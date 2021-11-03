@@ -22,7 +22,7 @@
     "shortid": "^2.2.15",
     "slugify": "^1.4.0",
     "string-strip-html": "^4.3.19",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "dotenv-webpack": "^1.7.0"
